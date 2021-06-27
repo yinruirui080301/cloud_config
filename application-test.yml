@@ -1,2 +1,5 @@
-my.spring.cloud.version=5
-my.name=lsf
+my:
+  spring:
+    cloud:
+      version: 5
+  name: lsf
