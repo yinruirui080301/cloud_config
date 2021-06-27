@@ -2,4 +2,4 @@ my:
   spring:
     cloud:
       version: 6
-  name: lsf
+  name: lsf_yxf
